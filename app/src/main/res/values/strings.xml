@@ -5,7 +5,9 @@
     <string name="alert_amount_empty">Please enter your NTD amount</string>
     <string name="common_none">None</string>
     <string name="common_go">GO</string>
+    <string name="common_ok">OK</string>
+    <string name="common_is">is</string>
     <string name="currency_ntd">NTD</string>
-    <string name="currency_jp">JP</string>
-    <string name="currency_us">US</string>
+    <string name="currency_jpy">JPY</string>
+    <string name="currency_usd">USD</string>
 </resources>

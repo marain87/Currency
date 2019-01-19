@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string name ="app_name">轉換貨幣</string>
+     <string name ="alert_title_problem">錯誤</string>
+     <string name ="alert_title_result">結果</string>
+     <string name ="alert_amount_empty">請輸入您的台幣金額</string>
+     <string name ="common_none">無</string>
+     <string name ="common_go">計算</string>
+     <string name ="common_ok">確定</string>
+     <string name ="common_is">是</string>
+     <string name ="currency_ntd">台幣</string>
+     <string name ="currency_jpy">日圓</string>
+     <string name ="currency_usd">美金</string>
+</resources>
