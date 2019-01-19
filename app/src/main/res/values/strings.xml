@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Currency</string>
+    <string name="alert_title_problem">Problem</string>
+    <string name="alert_title_result">Result</string>
+    <string name="alert_amount_empty">Please enter your NTD amount</string>
+    <string name="common_none">None</string>
+    <string name="common_go">GO</string>
+    <string name="currency_ntd">NTD</string>
+    <string name="currency_jp">JP</string>
+    <string name="currency_us">US</string>
 </resources>
